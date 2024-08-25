@@ -1,0 +1,8 @@
+server/.venv/
+client/.venv/
+
+server/.env
+server/auth_db.json
+
+server/__pycache__/
+client/__pycache__/
